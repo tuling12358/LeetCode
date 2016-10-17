@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * Longest Substring Without Repeating Characters
- * @author Gao Cheng jun
+ * @author tuling12358
  *
  */
 public class LongestSubstring {
