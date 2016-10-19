@@ -1,6 +1,6 @@
 
 /**
-  锯齿形字符
+  锯齿形字符串
 */
 public class ZigZagConversion {
     public String convert(String s, int numRows) {
