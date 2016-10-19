@@ -1,7 +1,7 @@
 
 /**
   Write a function to find the longest common prefix string amongst an array of strings.
-  
+  在字符串数组中找出 最长的 公共前缀
 */
 public class LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
